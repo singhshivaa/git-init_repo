@@ -1,4 +1,4 @@
-**Hear i'm explain how to push code from local repo to github**
+**Hear i'm explain how to push code from local repo to Github**
 
 # Pushing Code to GitHub
 
