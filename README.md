@@ -1,3 +1,5 @@
+**Hear i'm explain how to push code from local repo to github**
+
 # Pushing Code to GitHub
 
 Follow these steps to push your code to GitHub using the command line:
